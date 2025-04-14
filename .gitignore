@@ -1,0 +1,28 @@
+# Composer dependencies
+/vendor/
+/composer.lock
+/New folder/
+# Yii runtime path
+/runtime/
+/web/assets/
+
+# User-specific files
+/.idea/
+/nbproject/
+/*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Environment config
+.env
+.env.*
+/config/local.php
+/config/test-local.php
